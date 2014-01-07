@@ -1,8 +1,8 @@
 #!/bin/sh
 echo "Starting Purge"
-purge
+sudo purge
 echo "Starting Permissions Repair"
-diskutil repairPermissions /Volumes/Macintosh\ HD
+sudo diskutil repairPermissions /Volumes/Macintosh\ HD
 echo ""
 echo ""
 echo ""
