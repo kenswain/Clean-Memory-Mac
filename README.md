@@ -4,4 +4,4 @@ As much as I love the Mac OSX operating system, it does seem to have an issue wi
 
 Put this in your home directory and then run "./ram-clean.sh" and wait. Once it is done you will notice you have a ton more free memory. 
 
-Note: This does not seem to be needed as much in Mavericks
+*** Does not seem to be working in HS ***
